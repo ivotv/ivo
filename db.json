@@ -1,5 +1,5 @@
 {
-      "estrenos" : [
+      "estreno" : [
             {
               "id": 1,
               "title": "Samaritan (2022)",
@@ -42,7 +42,7 @@
             }
      ],
      
-     "terror8a" : [
+     "terror" : [
             {
               "id": 1,
               "title": "El secreto de Sinchanee (2021)",
